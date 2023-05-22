@@ -3,6 +3,7 @@ const COLORS = {
     secondary: "#444262",
     tertiary: "#FF7754",
     transparent: 'rgba(255, 255, 255, 0)',
+    littleTransparent: 'rgba(255, 255, 255, 0.3)',
 
     gray: "#83829A",
     gray2: "#C1C0C8",
@@ -10,8 +11,10 @@ const COLORS = {
     black: "#000000",
     white: "#F3F4F8",
     lightWhite: "#FAFAFC",
+    darkWhite: "#e2e2e7",
 
-    beige: "#FFE4C4"
+    beige: "#FFE4C4",
+    red: "#ad0e28"
 };
 
 const FONT = {
